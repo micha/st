@@ -1,0 +1,5 @@
+libfontconfig1-dev
+x11proto-core-dev
+libx11-dev
+libxft-dev
+libxext-dev
